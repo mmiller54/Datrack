@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    chart
 
     override func viewDidLoad() {
         super.viewDidLoad()
